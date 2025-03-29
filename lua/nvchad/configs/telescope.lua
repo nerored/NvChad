@@ -19,6 +19,12 @@ return {
     },
   },
 
+  pickers = {
+    colorscheme = {
+      enable_preview = true,
+    },
+  },
+
   extensions_list = { "themes", "terms" },
   extensions = {},
 }
